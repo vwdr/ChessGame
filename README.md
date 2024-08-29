@@ -4,8 +4,6 @@
 
 **ChessGame** is a JavaScript-based chess game where you can play against a computer opponent. Featuring an interactive chessboard, the ability to flip the board, and set specific positions, this game leverages the **chessboard.js** and **chess.js** libraries to deliver a robust and engaging chess experience.
 
-![screenshot](screenshot.jpg)
-
 ## Technologies Used
 
 - **JavaScript**: For implementing game logic and interactivity.
